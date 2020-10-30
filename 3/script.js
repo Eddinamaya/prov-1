@@ -9,6 +9,7 @@ console.log(fruits)
 
 // array = const fruits 
 // elment =  = ['banan', 'äpple', 'vindruvor']
+// arr
 
 
 
